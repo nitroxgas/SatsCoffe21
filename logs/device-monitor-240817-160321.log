@@ -1,0 +1,18 @@
+16:03:54.876 > ESP-ROM:esp32s3-20210327
+16:03:54.876 > Build:Mar 27 2021
+16:03:54.876 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+16:03:54.889 > SPIWP:0xee
+16:03:54.889 > mode:DIO, clock div:1
+16:03:54.892 > load:0x3fce3808,len:0x44c
+16:03:54.896 > load:0x403c9700,len:0xbe4
+16:03:54.896 > load:0x403cc700,len:0x2a68
+16:03:54.896 > entry 0x403c98d4
+16:04:07.369 > ESP-ROM:esp32s3-20210327
+16:04:07.373 > Build:Mar 27 2021
+16:04:07.373 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+16:04:07.376 > SPIWP:0xee
+16:04:07.376 > mode:DIO, clock div:1
+16:04:07.376 > load:0x3fce3808,len:0x44c
+16:04:07.376 > load:0x403c9700,len:0xbe4
+16:04:07.376 > load:0x403cc700,len:0x2a68
+16:04:07.426 > entry 0x403c98d4
