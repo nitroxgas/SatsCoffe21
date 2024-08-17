@@ -1,0 +1,15 @@
+SET(SOURCES screens/ui_Inicial.c
+    screens/ui_Pagamento.c
+    ui_theme_manager.c
+    ui_themes.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    images/ui_img_expresso_png.c
+    images/ui_img_lungo_png.c
+    images/ui_img_barrainf_png.c
+    images/ui_img_voltar_png.c
+    images/ui_img_qrcode_png.c
+    images/ui_img_logoc21_png.c)
+
+add_library(ui ${SOURCES})
